@@ -1,5 +1,3 @@
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
 # 微软 OAuth2 API 无服务器版本
 
 > **服务器版本在vps分支**
